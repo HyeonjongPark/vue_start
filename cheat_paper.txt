@@ -1,0 +1,12 @@
+
+ㅇ app 생성
+  - vue create "프로젝트 명"
+
+ㅇ app 진입
+  - cd "프로젝트 명"
+
+ㅇ 웹 실행
+  - npm run serve    	웹 실행
+  - http://localhost:8080/   	웹 접속
+
+ㅇ 
